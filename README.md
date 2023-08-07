@@ -1,16 +1,13 @@
-### Hi there 👋
+## 👋 Hey there, I'm Maxwell Diogu
 
-<!--
-**sdumax/sdumax** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hey There! 👋
 
-Here are some ideas to get you started:
+I'm a Frontend developer, I love to identify real life problems and contribute to solving those problems with technology
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Frontend Skills
+
+[![SkillIcons](https://skillicons.dev/icons?i=js,ts,html,css,react,tailwind,vue,bootstrap)](https://skillicons.dev)
+
+#### Backend Skills
+
+[![SkillIcons](https://skillicons.dev/icons?i=nodejs,django,nest,laravel)](https://skillicons.dev)
