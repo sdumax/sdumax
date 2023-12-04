@@ -2,7 +2,7 @@
 
 # Hey There! 👋
 
-I'm a Frontend developer, I love to identify real life problems and contribute to solving those problems with technology
+I'm a Fullstack developer, I love to identify real life problems and contribute to solving those problems with technology
 
 #### Frontend Tools
 
